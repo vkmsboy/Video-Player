@@ -13,7 +13,7 @@ from base64 import standard_b64encode, standard_b64decode
 
 app = Flask(__name__)
 
-__author__ = "Jigarvarma2005"
+__author__ = "ONlyq"
 
 ACCOUNT_ID = os.environ.get("ACCOUNT_ID", "6206459123001")
 BCOV_POLICY = os.environ.get("BCOV_POLICY", "BCpkADawqM1474MvKwYlMRZNBPoqkJY-UWm7zE1U769d5r5kqTjG0v8L-THXuVZtdIQJpfMPB37L_VJQxTKeNeLO2Eac_yMywEgyV9GjFDQ2LTiT4FEiHhKAUvdbx9ku6fGnQKSMB8J5uIDd")
